@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="20b89581-a04c-4dd0-b626-1240558f41be" />
+  </component>
+  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="25 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
